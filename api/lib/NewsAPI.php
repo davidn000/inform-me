@@ -10,7 +10,7 @@
  */
 class NewsApi 
 {
-    private const API_KEY = '21eb8eabcamshdc6423e08ff4be9p194436jsn9552cfba4be6';
+    private const API_KEY = '';
 
 
     static function getNews($query = null, $limit = 10, $skip = 0)
