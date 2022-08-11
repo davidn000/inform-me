@@ -8,9 +8,10 @@ Inform Me was made as a little side project so I could explore VueJS. It uses Ne
 
 ## Getting Started
 
+To get started, clone the repository then follow the steps in [project setup](#Project-setup) 
+
 
 ### Project setup
-* To get started, clone the repository then run the following command from the terminal: 
 ```
 npm install
 ```
