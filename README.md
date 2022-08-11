@@ -4,7 +4,7 @@
 
 ## Description
 
-Inform Me was made as a little side project so I could explore VueJS. It uses NewsX's free news API which can be found in [references](#References). 
+Inform Me was made as a little side project so I could explore VueJS. It uses NewsX's free news API which can be found in [references](#References) at the bottom of the page. 
 
 ## Getting Started
 
