@@ -30,7 +30,7 @@ npm run build
 
 Contributors names and contact info
 
-Davood Najafi
+* Davood Najafi - <contact@najafi.cc>
 
 ## Version History
 
