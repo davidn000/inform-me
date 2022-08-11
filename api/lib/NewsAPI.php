@@ -2,6 +2,9 @@
 
 
 /**
+ *  Author: Davood Najafi.
+ *  
+ *  @abstract A secure abstraction layer for the NewsAPI. 
  *  @property const API_HOST
  *  @property const API_KEY
  */

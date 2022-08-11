@@ -1,8 +1,6 @@
 <?php
 /**
- *  Filename: NewsGen.php
  *  Author:   Davood Najafi
- *  
  *  Description:
  *   - This is a fairly simple PHP API that returns a JSON response of news articles. 
  */
