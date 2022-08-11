@@ -1,6 +1,6 @@
 # Inform Me
 
-Inform Me is a very simple single-page progressive web application built in VueJS. 
+[Inform Me](https://inform-me.najafi.cc) is a very simple single-page progressive web application built in VueJS. 
 
 ## Description
 
@@ -8,23 +8,19 @@ Inform Me was made as a little side project so I could explore VueJS. It uses Ne
 
 ## Getting Started
 
-### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-## Project setup
+### Project setup
 * To get started, clone the repository then run the following command from the terminal: 
 ```
 npm install
 ```
 
-## Compiles and hot-reloads for development
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-## Compiles and minifies for production
+### Compiles and minifies for production
 ```
 npm run build
 ```
