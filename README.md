@@ -1,6 +1,6 @@
 # Inform Me
 
-[Inform Me](https://inform-me.najafi.cc) is a very simple single-page progressive web application built in VueJS. 
+[Inform Me](https://inform-me.najafi.cc) is modern single-page progressive web application (PWA) designed with tailwindcss and built in VueJS. 
 
 ## Description
 
